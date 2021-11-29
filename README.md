@@ -23,7 +23,7 @@ NeoMusic.ipynb:
 Python scripts to find the similarity using the following technique:
 
 1) Clustering Algorithm
-2) Hausdorff distance
+2) Asymmetric distance metric : Hausdorff.
 3) Graph Mining using Neo4j cypher query scripts
 
 As screenshots and Cypher query files are huge in size, please find the same in the following shared drive:
