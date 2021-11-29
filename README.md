@@ -1,4 +1,4 @@
-# NeoMusic
+# NeoMusic : Find similar artists.
 
 The goal of NeoMusic project is to find top k-similar artists without usage data addressing the cold-start issue as well.
 
