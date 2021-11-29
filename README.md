@@ -26,7 +26,7 @@ Python scripts to find the similarity using the following technique:
 2) Asymmetric distance metric : Hausdorff.
 3) Graph Mining using Neo4j cypher query scripts
 
-As screenshots and Cypher query files are huge in size, please find the same in the following shared drive:
+As Neo4j DB and Cypher query files are huge in size, please find the same in the following shared drive:
 
 https://drive.google.com/drive/u/5/folders/0AIuN7KReXPvAUk9PVA
 
